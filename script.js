@@ -1,8 +1,3 @@
-// Перше завдання
-const name = prompt('Enter your name');
-const result = 'Hello, ' + name + '! How are you?';
-alert(result);
-
 // Друге завдання
 const day = prompt('What date were you born?');
 const month = prompt('What month were you born? (number)');
